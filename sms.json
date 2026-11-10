@@ -1,0 +1,40 @@
+{
+  "$comment_update_at": "https://sms.oxydien.dev/?ref=heads",
+  "$schema": "https://raw.githubusercontent.com/oxydien/simple-mod-sync/refs/heads/main/schema.json",
+  "environment": {
+    "mc_loader": "neoforge",
+    "mc_version": "1.21.1"
+  },
+  "sync_version": 3,
+  "sync": [
+    {
+      "$platform_data": "",
+      "name": "mekanism-generators",
+      "type": "mod",
+      "url": "https://cdn.modrinth.com/data/OFVYKsAk/versions/a6gl7srE/MekanismGenerators-1.21.1-10.7.19.85.jar",
+      "version": "a6gl7srE"
+    },
+    {
+      "$platform_data": "",
+      "name": "mekanism",
+      "type": "mod",
+      "url": "https://cdn.modrinth.com/data/Ce6I4WUE/versions/5KzzycBT/Mekanism-1.21.1-10.7.19.85.jar",
+      "version": "5KzzycBT"
+    },
+    {
+      "$platform_data": "",
+      "name": "create",
+      "type": "mod",
+      "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
+      "version": "UjX6dr61"
+    },
+    {
+      "$platform_data": "",
+      "name": "sodium",
+      "type": "mod",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
+      "version": "uMOpc5uV"
+    }
+  ],
+  "modify": []
+}
